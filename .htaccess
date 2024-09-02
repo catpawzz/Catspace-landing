@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Prevent rewriting for existing files and directories
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Rewrite rules for pretty URLs
+    RewriteRule ^user/([0-9]+)/?$ index.php?user=$1 [L,QSA]
+    RewriteRule ^user/([0-9]+)/([a-zA-Z0-9_-]+)/?$ index.php?user=$1&action=$2 [L,QSA]
+</IfModule>
