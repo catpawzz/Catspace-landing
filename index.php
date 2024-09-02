@@ -23,11 +23,12 @@
         <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
             <div class="text-center">
                 <h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">Welcome to the Femrise network!</h1>
-                <p class="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
+                <p class="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!</p>
                 <div class="mt-10 flex items-center justify-center gap-x-6">
                     <a href="https://social.fembois.eu" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Mastodon</a>
                     <a href="https://pixel.fembois.eu" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">PixelFed</a>
-                    <a href="user.php" class="text-sm font-semibold leading-6 text-gray-900 dark:text-gray-300">User search <span aria-hidden="true">→</span></a>
+                    <a href="user" class="text-sm font-semibold leading-6 text-gray-900 dark:text-gray-300">User search <span aria-hidden="true">→</span></a>
+                    <a href="https://ko-fi.com/french_femboi" class="text-sm font-semibold leading-6 text-gray-900 dark:text-gray-300">Ko-Fi <span aria-hidden="true">→</span></a>
                 </div>
             </div>
         </div>
