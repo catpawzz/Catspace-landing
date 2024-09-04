@@ -4,7 +4,7 @@
                     <ul class="text-lg flex items-center justify-center flex-col gap-7 md:flex-row md:gap-12 transition-all duration-500 py-16 mb-10">
                         <li><a href="https://status.fembois.eu" class="text-purple-200 hover:text-purple-300">Status</a></li>
                         <li><a href="https://mastodon.fembois.eu" class=" text-purple-200 hover:text-purple-300">Misskey</a></li>
-                        <li><a href="https://pixel.fembois.eu" class=" text-purple-200 hover:text-purple-300">PixelFed</a></li>
+                        <li><a href="https://tube.fembois.eu" class=" text-purple-200 hover:text-purple-300">Peertube</a></li>
                         <li><a href="https://github.com/french-femboi/Femrise-Landing" class=" text-purple-200 hover:text-purple-300">GitHub</a></li>
                         <li><a href="/privacy" class=" text-purple-200 hover:text-purple-300">Privacy</a></li>
                         <li><a href="/tos" class=" text-purple-200 hover:text-purple-300">TOS</a></li>

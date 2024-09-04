@@ -46,7 +46,7 @@
         <p class="mt-6 text-lg leading-8 text-gray-300">Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!<br><br>Please select the instance you wish to visit:</p>
         <div class="mt-10 flex items-center gap-x-6">
             <a href="https://social.fembois.eu" class="text-sm font-semibold leading-6 text-white">Misskey Instance <span aria-hidden="true">→</span></a>
-          <a href="https://pixel.fembois.eu" class="text-sm font-semibold leading-6 text-white">PixelFed Instance <span aria-hidden="true">→</span></a>
+          <a href="https://tube.fembois.eu" class="text-sm font-semibold leading-6 text-white">PeerTube Instance <span aria-hidden="true">→</span></a>
         </div>
       </div>
       <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
