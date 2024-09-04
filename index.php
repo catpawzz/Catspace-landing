@@ -5,10 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Your Page Title</title>
+    <title>Femrise Network</title>
 
     <link href="/src/styles/output.css" rel="stylesheet">
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+    <link rel="icon" href="favicon.png">
+
+    <meta name="description" content="Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!">
+    <meta name="author" content="Femrise Network">
+    <meta content="#A97EBD" data-react-helmet="true" name="theme-color">
+    <meta property="og:image" content="favicon.png">
 </head>
 
 <body>
@@ -36,7 +42,7 @@
           </a>
         </div>
         <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Welcome to the Femrise network!</h1>
-        <p class="mt-6 text-lg leading-8 text-gray-300">Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!</p>
+        <p class="mt-6 text-lg leading-8 text-gray-300">Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!<br><br>Please select the instance you wish to visit:</p>
         <div class="mt-10 flex items-center gap-x-6">
             <a href="https://social.fembois.eu" class="text-sm font-semibold leading-6 text-white">Mastodon Instance <span aria-hidden="true">→</span></a>
           <a href="https://pixel.fembois.eu" class="text-sm font-semibold leading-6 text-white">PixelFed Instance <span aria-hidden="true">→</span></a>
@@ -49,6 +55,21 @@
       </div>
     </div>
   </div>
+
+  <footer class="w-full py-14 bg-gray-800">
+        <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div class="max-w-3xl mx-auto">
+                    <ul class="text-lg flex items-center justify-center flex-col gap-7 md:flex-row md:gap-12 transition-all duration-500 py-16 mb-10">
+                        <li><a href="https://status.fembois.eu" class="text-purple-200 hover:text-purple-300">Status</a></li>
+                        <li><a href="https://mastodon.fembois.eu" class=" text-purple-200 hover:text-purple-300">Mastodon</a></li>
+                        <li><a href="https://pixel.fembois.eu" class=" text-purple-200 hover:text-purple-300">PixelFed</a></li>
+                        <li><a href="https://github.com/french-femboi/Femrise-Landing" class=" text-purple-200 hover:text-purple-300">GitHub</a></li>
+                    </ul>
+                    <span class="text-lg text-gray-100 text-center block">©<a href="https://fembois.eu/">fembois</a> 2024 - Present, All rights reserved.</span>
+            </div>
+        </div>
+    </footer>
+                                            
 
 </body>
 
