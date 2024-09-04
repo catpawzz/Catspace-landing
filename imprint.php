@@ -36,7 +36,7 @@
         </div>
         <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40">
             <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-                <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Impressum</h1>
+                <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Imprint</h1>
                 <p class="mt-6 text-lg leading-8 text-gray-300">An imprint is essentially a declaration of ownership and authorship. It was created both to protect user data and to combat illegal content and spam.</p>
             </div>
         </div>

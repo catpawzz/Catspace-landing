@@ -1,3 +1,4 @@
+<?php include 'inc/decoration.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -56,7 +57,7 @@
     </div>
   </div>
                                             
-
+  <?php include 'inc/footer.php'; ?>
 </body>
 
 </html>
