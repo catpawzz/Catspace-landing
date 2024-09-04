@@ -44,7 +44,7 @@
         <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Welcome to the Femrise network!</h1>
         <p class="mt-6 text-lg leading-8 text-gray-300">Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!<br><br>Please select the instance you wish to visit:</p>
         <div class="mt-10 flex items-center gap-x-6">
-            <a href="https://social.fembois.eu" class="text-sm font-semibold leading-6 text-white">Mastodon Instance <span aria-hidden="true">→</span></a>
+            <a href="https://social.fembois.eu" class="text-sm font-semibold leading-6 text-white">Misskey Instance <span aria-hidden="true">→</span></a>
           <a href="https://pixel.fembois.eu" class="text-sm font-semibold leading-6 text-white">PixelFed Instance <span aria-hidden="true">→</span></a>
         </div>
       </div>
@@ -61,7 +61,7 @@
             <div class="max-w-3xl mx-auto">
                     <ul class="text-lg flex items-center justify-center flex-col gap-7 md:flex-row md:gap-12 transition-all duration-500 py-16 mb-10">
                         <li><a href="https://status.fembois.eu" class="text-purple-200 hover:text-purple-300">Status</a></li>
-                        <li><a href="https://mastodon.fembois.eu" class=" text-purple-200 hover:text-purple-300">Mastodon</a></li>
+                        <li><a href="https://mastodon.fembois.eu" class=" text-purple-200 hover:text-purple-300">Misskey</a></li>
                         <li><a href="https://pixel.fembois.eu" class=" text-purple-200 hover:text-purple-300">PixelFed</a></li>
                         <li><a href="https://github.com/french-femboi/Femrise-Landing" class=" text-purple-200 hover:text-purple-300">GitHub</a></li>
                     </ul>
