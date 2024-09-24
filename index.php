@@ -47,11 +47,12 @@
         <div class="mt-10 flex items-center gap-x-6">
             <a href="https://social.fembois.eu" class="text-sm font-semibold leading-6 text-white">Misskey Instance <span aria-hidden="true">→</span></a>
           <a href="https://tube.fembois.eu" class="text-sm font-semibold leading-6 text-white">PeerTube Instance <span aria-hidden="true">→</span></a>
+          <a href="https://play.google.com/store/apps/details?id=com.catpawz.catkeys" class="text-sm font-semibold leading-6 text-white">CatKeys client <span aria-hidden="true">→</span></a>
         </div>
       </div>
       <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
         <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
-          <img src="/src/assets/img/misskey.png" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10">
+          <img src="/src/assets/img/misskey_dos.png" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10">
         </div>
       </div>
     </div>
