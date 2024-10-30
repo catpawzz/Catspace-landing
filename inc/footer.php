@@ -9,6 +9,7 @@
                         <li><a href="/tos" class=" text-purple-200 hover:text-purple-300">TOS</a></li>
                         <li><a href="/imprint" class=" text-purple-200 hover:text-purple-300">Imprint</a></li>
                         <li><a href="/contact" class=" text-purple-200 hover:text-purple-300">Contact</a></li>
+                        <li><a href="/discord" class=" text-purple-200 hover:text-purple-300">Discord</a></li>
                         <li><a href="/code" class=" text-purple-200 hover:text-purple-300">Free Code</a></li>
                     </ul>
                     <span class="text-lg text-gray-100 text-center block">©<a href="https://fembois.eu/">fembois</a> 2024 - Present, All rights reserved.</span>
