@@ -3,17 +3,18 @@
 <html lang="en">
 
 <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Femrise Network</title>
+    <title>Catspace - Privacy</title>
 
     <link href="/src/styles/output.css" rel="stylesheet">
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="icon" href="favicon.png">
 
-    <meta name="description" content="Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!">
-    <meta name="author" content="Femrise Network">
+    <meta name="description" content="Welcome to our social instance :) We're a welcoming and friendly community, that you can join today! You can post about anything you want as long as it's not against the rules :> ">
+    <meta name="author" content="Catspace - Privacy">
     <meta content="#A97EBD" data-react-helmet="true" name="theme-color">
     <meta property="og:image" content="favicon.png">
 </head>
@@ -49,7 +50,7 @@
             <section>
                 <h2 class="h2">1. Introduction</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Welcome to Femrise! This privacy policy explains how we handle and protect your personal data when you use our social media platform. By using our services, you agree to the terms outlined in this policy.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Welcome to Catspace! This privacy policy explains how we handle and protect your personal data when you use our social media platform. By using our services, you agree to the terms outlined in this policy.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -57,7 +58,7 @@
             <section>
                 <h2 class="h2">2. Who we are</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Femrise is a social media platform that allows users to chat, share media, and connect with others. Our website, accessible at fembois.eu, is powered by the Misskey software and hosted on our own servers located in the Netherlands.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Catspace is a social media platform that allows users to chat, share media, and connect with others. Our website, accessible at catspace.com, is powered by the Sharkey software, a fork of Misskey, and hosted on our own servers located in Germany.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -68,7 +69,7 @@
                     <section>
                         <h3 class="h3">Information you provide</h3>
                         <div class="_gaps">
-                            <div class="_gaps xi0Lp" h="4"><span style="white-space: pre-wrap;">- Account Information: When you register for an account, we collect your username, email address, and password.<br><br>- Profile Information: You may provide additional information such as a profile picture, bio, and links to your other social media profiles.<br><br>- Content: Any media, messages, or other content you share on Femrise will be stored on our servers.</span>
+                            <div class="_gaps xi0Lp" h="4"><span style="white-space: pre-wrap;">- Account Information: When you register for an account, we collect your username, email address, and password.<br><br>- Profile Information: You may provide additional information such as a profile picture, bio, and links to your other social media profiles.<br><br>- Content: Any media, messages, or other content you share on Catspace will be stored on our servers.</span>
                                 <div class="_gaps_s"></div>
                             </div>
                         </div>
@@ -76,7 +77,7 @@
                     <section>
                         <h3 class="h3">Automatically collected information</h3>
                         <div class="_gaps">
-                            <div class="_gaps xi0Lp" h="4"><span style="white-space: pre-wrap;">- Log Data: We collect information that your browser sends whenever you visit our website. This may include your IP address, browser type, operating system, and the pages you visit.<br><br>- Cookies: We use cookies to improve your experience on Femrise. Cookies help us remember your preferences and provide a more personalized experience.</span>
+                            <div class="_gaps xi0Lp" h="4"><span style="white-space: pre-wrap;"><br>- Log Data: We collect information that your browser sends whenever you visit our website. This may include your IP address, browser type, operating system, and the pages you visit.<br><br>- Cookies: We use cookies to improve your experience on Catspace. Cookies help us remember your preferences and provide a more personalized experience.</span>
                                 <div class="_gaps_s"></div>
                             </div>
                         </div>
@@ -86,7 +87,7 @@
             <section>
                 <h2 class="h2">4. How we use your data</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">- To Provide Services: We use your data to operate, maintain, and improve the services we offer on Femrise.<br><br>- To Communicate with You: We may use your contact information to send you updates, respond to your inquiries, and provide customer support.<br><br>- To Ensure Safety: We may use your data to monitor for any suspicious or illegal activity on Femrise.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">- To Provide Services: We use your data to operate, maintain, and improve the services we offer on Catspace.<br><br>- To Communicate with You: We may use your contact information to send you updates, respond to your inquiries, and provide customer support.<br><br>- To Ensure Safety: We may use your data to monitor for any suspicious or illegal activity on Catspace.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -102,7 +103,7 @@
             <section>
                 <h2 class="h2">6. Data storage and security</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Your data is stored on secure servers in the Netherlands and Germany. We take all reasonable precautions to protect your information from loss, theft, or misuse. However, no system is completely secure, and we cannot guarantee the absolute security of your data.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Your data is stored on secure servers in Germany. We take all reasonable precautions to protect your information from loss, theft, or misuse. However, no system is completely secure, and we cannot guarantee the absolute security of your data.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -118,7 +119,7 @@
             <section>
                 <h2 class="h2">8. Third-party links</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Femrise may contain links to third-party websites. We are not responsible for the privacy practices of these sites and encourage you to review their privacy policies.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Catspace may contain links to third-party websites. We are not responsible for the privacy practices of these sites and encourage you to review their privacy policies.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -126,7 +127,7 @@
             <section>
                 <h2 class="h2">9. Changes to this policy</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">We may update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. Your continued use of Femrise after any changes indicates your acceptance of the new policy.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">We may update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date. Your continued use of Catspace after any changes indicates your acceptance of the new policy.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -134,7 +135,7 @@
             <section>
                 <h2 class="h2">10. Contact us</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">If you have any questions or concerns about this privacy policy, please contact us at: admin@fembois.eu</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">If you have any questions or concerns about this privacy policy, please contact us at: cat@catpawz.net</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>

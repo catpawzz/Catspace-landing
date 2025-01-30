@@ -3,17 +3,17 @@
 <html lang="en">
 
 <head>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Femrise Network</title>
+    <title>Catspace</title>
 
     <link href="/src/styles/output.css" rel="stylesheet">
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="icon" href="favicon.png">
 
-    <meta name="description" content="Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!">
-    <meta name="author" content="Femrise Network">
+    <meta name="description" content="Welcome to our social instance :) We're a welcoming and friendly community, that you can join today! You can post about anything you want as long as it's not against the rules :> ">
+    <meta name="author" content="Catspace">
     <meta content="#A97EBD" data-react-helmet="true" name="theme-color">
     <meta property="og:image" content="favicon.png">
 </head>
@@ -46,13 +46,13 @@
         <h2 class="text-2xl font-bold mb-6">Effective date: 03/09/2023</h2>
 
         <div class="_gaps">
-            <div class="_gaps xi0Lp" h="2"><span style="white-space: pre-wrap;">Welcome to Femrise. By accessing or using our social media platform, you agree to comply with and be bound by the following Terms of Service. Please read them carefully before using the site. Femrise is a software that runs on our own servers in the Netherlands and Germany, it is powered by Misskey!</span>
+            <div class="_gaps xi0Lp" h="2"><span style="white-space: pre-wrap;">Welcome to Catspace. By accessing or using our social media platform, you agree to comply with and be bound by the following Terms of Service. Please read them carefully before using the site. Catspace is a software that runs on our own servers in Germany, it is powered by Sharkey (Misskey)!</span>
                 <div class="_gaps_s"></div>
             </div>
             <section>
                 <h2 class="h2">1. Acceptance of Terms</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">By using Femrise, you agree to these Terms of Service and our Privacy Policy. If you do not agree, please do not use the site.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">By using Catspace, you agree to these Terms of Service and our Privacy Policy. If you do not agree, please do not use the site.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
             <section>
                 <h2 class="h2">2. Eligibility</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Femrise is intended for users who are at least 16 years old. By using the site, you represent that you meet this age requirement.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Catspace is intended for users who are at least 16 years old. By using the site, you represent that you meet this age requirement.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -76,7 +76,7 @@
             <section>
                 <h2 class="h2">4. User Conduct</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">You agree to use Femrise in a manner that is respectful and lawful.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">You agree to use Catspace in a manner that is respectful and lawful.</span>
                         <div class="_gaps_s"></div>
                     </div>
                     <section>
@@ -92,7 +92,7 @@
             <section>
                 <h2 class="h2">5. Content Ownership and Responsibility</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">- You retain ownership of any content you post or share on Femrise.<br><br>- By posting content, you grant Femrise a non-exclusive, royalty-free, worldwide license to use, display, and distribute your content on the platform.<br><br>- You are solely responsible for the content you post, and you agree not to post any content that infringes on the rights of others.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">- You retain ownership of any content you post or share on Catspace.<br><br>- By posting content, you grant Catspace a non-exclusive, royalty-free, worldwide license to use, display, and distribute your content on the platform with accreditation.<br><br>- You are solely responsible for the content you post, and you agree not to post any content that infringes on the rights of others.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
             <section>
                 <h2 class="h2">6. Community Guidelines</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Femrise is a friendly and inclusive community. Please be kind and respectful to others.<br><br>Refrain from posting content that is offensive, hateful, or discriminatory.<br><br>Moderators reserve the right to remove content that violates these guidelines or the Terms of Service.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Catspace is a friendly and inclusive community. Please be kind and respectful to others.<br><br>Refrain from posting content that is offensive, hateful, or discriminatory.<br><br>Moderators reserve the right to remove content that violates these guidelines or the Terms of Service.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
             <section>
                 <h2 class="h2">9. Disclaimer of Warranties</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">- Femrise is provided "as is" and "as available" without any warranties of any kind, express or implied.<br><br>- We do not guarantee that the site will be error-free, secure, or available at all times.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">- Catspace is provided "as is" and "as available" without any warranties of any kind, express or implied.<br><br>- We do not guarantee that the site will be error-free, secure, or available at all times.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
             <section>
                 <h2 class="h2">10. Limitation of Liability</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">- Femrise will not be liable for any indirect, incidental, or consequential damages arising from your use of the platform.<br><br>- Our total liability to you for any claims arising out of your use of the site is limited to the amount you paid, if any, to use the platform.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">- Catspace will not be liable for any indirect, incidental, or consequential damages arising from your use of the platform.<br><br>- Our total liability to you for any claims arising out of your use of the site is limited to the amount you paid, if any, to use the platform.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -156,7 +156,7 @@
             <section>
                 <h2 class="h2">13. Contact Information</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">If you have any questions or concerns about these Terms of Service, please contact us at admin@fembois.eu</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">If you have any questions or concerns about these Terms of Service, please contact us at cat@catpawz.net</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>

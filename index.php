@@ -6,14 +6,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Femrise Network</title>
+    <title>Catspace</title>
 
     <link href="/src/styles/output.css" rel="stylesheet">
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="icon" href="favicon.png">
 
-    <meta name="description" content="Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!">
-    <meta name="author" content="Femrise Network">
+    <meta name="description" content="Welcome to our social instance :) We're a welcoming and friendly community, that you can join today! You can post about anything you want as long as it's not against the rules :> ">
+    <meta name="author" content="Catspace">
     <meta content="#A97EBD" data-react-helmet="true" name="theme-color">
     <meta property="og:image" content="favicon.png">
 </head>
@@ -39,19 +39,19 @@
       <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
         <div class="mt-24 sm:mt-32 lg:mt-16">
           <a href="https://ko-fi.com/french_femboi" class="inline-flex space-x-6">
-            <span class="rounded-full bg-purple-500/10 px-3 py-1 text-sm font-semibold leading-6 text-purple-300 ring-1 ring-inset ring-indigo-500/20">Support French Femboi</span>
+            <span class="rounded-full bg-purple-500/10 px-3 py-1 text-sm font-semibold leading-6 text-purple-300 ring-1 ring-inset ring-indigo-500/20">Support Catpawzz</span>
           </a>
         </div>
-        <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Welcome to the Femrise network!</h1>
-        <p class="mt-6 text-lg leading-8 text-gray-300">Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!<br><br>Please select the instance you wish to visit:</p>
+        <h1 class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Welcome to Catspace!</h1>
+        <p class="mt-6 text-lg leading-8 text-gray-300">Welcome to our social instance :) We're a welcoming and friendly community, that you can join today! You can post about anything you want as long as it's not against the rules :> <br><br>Please select the instance you wish to visit:</p>
         <div class="mt-10 flex items-center gap-x-6">
-            <a href="https://social.fembois.eu" class="text-sm font-semibold leading-6 text-white">Misskey Instance <span aria-hidden="true">→</span></a>
+            <a href="https://cat-space.net" class="text-sm font-semibold leading-6 text-white">Sharkey Instance <span aria-hidden="true">→</span></a>
           <a href="https://play.google.com/store/apps/details?id=com.catpawz.catkeys" class="text-sm font-semibold leading-6 text-white">CatKeys client <span aria-hidden="true">→</span></a>
         </div>
       </div>
       <div class="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
         <div class="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
-          <img src="/src/assets/img/misskey_dos.png" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10">
+          <img src="/src/assets/img/sharkey.png" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md bg-white/5 shadow-2xl ring-1 ring-white/10">
         </div>
       </div>
     </div>

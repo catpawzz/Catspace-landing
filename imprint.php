@@ -6,14 +6,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Femrise Network</title>
+    <title>Catspace - Imprint</title>
 
     <link href="/src/styles/output.css" rel="stylesheet">
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="icon" href="favicon.png">
 
-    <meta name="description" content="Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!">
-    <meta name="author" content="Femrise Network">
+    <meta name="description" content="Welcome to our social instance :) We're a welcoming and friendly community, that you can join today! You can post about anything you want as long as it's not against the rules :> ">
+    <meta name="author" content="Catspace - Imprint">
     <meta content="#A97EBD" data-react-helmet="true" name="theme-color">
     <meta property="og:image" content="favicon.png">
 </head>
@@ -49,7 +49,7 @@
             <section>
                 <h2 class="h2">ADRESS</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Femrise<br>Administered by Catpawz<br>(Netherlands-based Server, German-based backups)<br>fembois.eu</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Catspace<br>Administered by Catpawz<br>(German-based Server, German-based backups)<br>cat-space.net</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
             <section>
                 <h2 class="h2">CONTACT</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Email: admin@mail.fembois.eu<br>Website: fembois.eu</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Email: cat@catpawz.net<br>Website: cat-space.net</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
             <section>
                 <h2 class="h2">LEGAL NOTICE</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Femrise is operated on its own servers located in the Netherlands, with backups stored in Germany. The platform is powered by the open-source software, Misskey. The content on this site is strictly non-NSFW, and we are committed to creating a safe and enjoyable environment for all users. Any legal inquiries should be directed to the contact provided above.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Catspace is operated on its own servers located in Germany, with backups stored in Germany. The platform is powered by the open-source software, Sharkey (Misskey). The content on this site is strictly non-NSFW, and we are committed to creating a safe and enjoyable environment for all users. Any legal inquiries should be directed to the contact provided above.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
             <section>
                 <h2 class="h2">DISCLAIMER</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">The information provided on Femrise is for general informational purposes only. While we strive to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">The information provided on Catspace is for general informational purposes only. While we strive to keep the information up-to-date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, services, or related graphics contained on the website for any purpose.</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>

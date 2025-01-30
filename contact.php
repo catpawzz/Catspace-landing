@@ -6,14 +6,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Femrise Network</title>
+    <title>Catspace - Contact</title>
 
     <link href="/src/styles/output.css" rel="stylesheet">
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="icon" href="favicon.png">
 
-    <meta name="description" content="Hewwo! This server is hosted by femboys :3 It's for everyone—just a fun title! I accidentally bought the domain while half-asleep, but I hope you have an amazing time here!">
-    <meta name="author" content="Femrise Network">
+    <meta name="description" content="Welcome to our social instance :) We're a welcoming and friendly community, that you can join today! You can post about anything you want as long as it's not against the rules :> ">
+    <meta name="author" content="Catspace - Contact">
     <meta content="#A97EBD" data-react-helmet="true" name="theme-color">
     <meta property="og:image" content="favicon.png">
 </head>
@@ -55,7 +55,7 @@
             <section>
                 <h2 class="h2">CONTACT</h2>
                 <div class="_gaps">
-                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Email: admin@mail.fembois.eu<br>Website: french-femboi.eu</span>
+                    <div class="_gaps xi0Lp" h="3"><span style="white-space: pre-wrap;">Email: cat@catpawz.net<br>Website: catpawz.net</span>
                         <div class="_gaps_s"></div>
                     </div>
                 </div>
